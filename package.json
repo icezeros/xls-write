@@ -1,0 +1,19 @@
+{
+  "name": "xls-write",
+  "version": "1.0.2",
+  "description": "json to excel .   base  on  node-xlsx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "xlsx",
+    "write"
+  ],
+  "author": "icezeros",
+  "license": "MIT",
+  "dependencies": {
+    "node-xlsx": "^0.6.0"
+  }
+}

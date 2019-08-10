@@ -1,16 +1,3 @@
-# json2excel
-
-## Quick start
-
-Install
-
-```bash
-npm install xls-write
-```
-
-Example
-
-```node
 const jexcel = require('./index');
 const path = require('path');
 const filename = Date.now() + '.xlsx';
@@ -35,4 +22,3 @@ var data = {
 };
 //
 jexcel.writeXlsx(data);
-```

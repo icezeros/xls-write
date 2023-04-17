@@ -14,6 +14,6 @@
   "author": "icezeros",
   "license": "MIT",
   "dependencies": {
-    "node-xlsx": "^0.6.0"
+    "node-xlsx": "^0.21.0"
   }
 }
